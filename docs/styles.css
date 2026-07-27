@@ -196,7 +196,7 @@ h1 { margin: 14px 0 2px; font-family: "Songti SC", "STSong", serif; font-size: c
 .stop-main p { margin: 0; overflow: hidden; color: var(--muted); font-size: 11px; text-overflow: ellipsis; white-space: nowrap; }
 .stop-topline { display: flex; align-items: center; gap: 7px; }
 .kind { padding: 2px 6px; border-radius: 4px; color: var(--gold); background: var(--gold-soft); font-size: 9px; font-weight: 700; }
-.kind.food { color: #deb585; background: rgba(222,181,133,.12); }
+.kind.food { color: #f08f78; background: rgba(240,143,120,.14); }
 .kind.travel, .kind.flight { color: #9abbd3; background: rgba(125,167,199,.12); }
 .kind.hotel { color: #aab7ad; background: rgba(150,175,157,.12); }
 .now-label { color: #111; background: var(--gold); border-radius: 4px; padding: 2px 6px; font-size: 9px; font-weight: 700; }
