@@ -1,4 +1,4 @@
-﻿:root {
+:root {
   --bg: #090b0e;
   --panel: #101419;
   --panel-2: #151a20;
@@ -230,4 +230,3 @@ footer span { color: #c3c7ca; letter-spacing: .12em; }
   .sun-orb::after, .sun-haze, .rain-layer { animation: none !important; }
   .weather-rain .rain-animation { display: none; }
 }
-
